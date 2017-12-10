@@ -1,0 +1,4 @@
+BSCS-401 Digital Fundamentals
+BSCS-403 Discrete Mathematics
+BSCS-405 Discrete Mathematics
+BSCS-409 Design Fundamentals
